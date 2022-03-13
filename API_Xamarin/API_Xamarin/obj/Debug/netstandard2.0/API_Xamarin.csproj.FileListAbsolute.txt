@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\API_Xamarin\API_Xamarin\API_Xamarin\bin\Debug\netstandard2.0\API_Xamarin.deps.json
+C:\Users\user\source\repos\API_Xamarin\API_Xamarin\API_Xamarin\bin\Debug\netstandard2.0\API_Xamarin.dll
+C:\Users\user\source\repos\API_Xamarin\API_Xamarin\API_Xamarin\bin\Debug\netstandard2.0\ref\API_Xamarin.dll
+C:\Users\user\source\repos\API_Xamarin\API_Xamarin\API_Xamarin\bin\Debug\netstandard2.0\API_Xamarin.pdb
+C:\Users\user\source\repos\API_Xamarin\API_Xamarin\API_Xamarin\obj\Debug\netstandard2.0\API_Xamarin.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\API_Xamarin\API_Xamarin\API_Xamarin\obj\Debug\netstandard2.0\API_Xamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\API_Xamarin\API_Xamarin\API_Xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\source\repos\API_Xamarin\API_Xamarin\API_Xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\source\repos\API_Xamarin\API_Xamarin\API_Xamarin\obj\Debug\netstandard2.0\API_Xamarin.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\API_Xamarin\API_Xamarin\API_Xamarin\obj\Debug\netstandard2.0\API_Xamarin.AssemblyInfo.cs
+C:\Users\user\source\repos\API_Xamarin\API_Xamarin\API_Xamarin\obj\Debug\netstandard2.0\API_Xamarin.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\API_Xamarin\API_Xamarin\API_Xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\source\repos\API_Xamarin\API_Xamarin\API_Xamarin\obj\Debug\netstandard2.0\API_Xamarin.dll
+C:\Users\user\source\repos\API_Xamarin\API_Xamarin\API_Xamarin\obj\Debug\netstandard2.0\ref\API_Xamarin.dll
+C:\Users\user\source\repos\API_Xamarin\API_Xamarin\API_Xamarin\obj\Debug\netstandard2.0\API_Xamarin.pdb
