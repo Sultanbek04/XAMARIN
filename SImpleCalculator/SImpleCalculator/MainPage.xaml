@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SImpleCalculator.MainPage">
+
+    <Grid x:Name="body">
+        <StackLayout x:Name="spLog" >
+            <Frame x:Name="borderOfLog" BorderColor="Red" HeightRequest="700"  >
+                <Label x:Name="log">
+ 
+                </Label>
+            </Frame>
+
+        </StackLayout>
+    </Grid>
+
+</ContentPage>

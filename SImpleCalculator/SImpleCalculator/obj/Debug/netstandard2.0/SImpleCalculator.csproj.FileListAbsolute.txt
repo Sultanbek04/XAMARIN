@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\SImpleCalculator\SImpleCalculator\SImpleCalculator\bin\Debug\netstandard2.0\SImpleCalculator.deps.json
+C:\Users\user\source\repos\SImpleCalculator\SImpleCalculator\SImpleCalculator\bin\Debug\netstandard2.0\SImpleCalculator.dll
+C:\Users\user\source\repos\SImpleCalculator\SImpleCalculator\SImpleCalculator\bin\Debug\netstandard2.0\ref\SImpleCalculator.dll
+C:\Users\user\source\repos\SImpleCalculator\SImpleCalculator\SImpleCalculator\bin\Debug\netstandard2.0\SImpleCalculator.pdb
+C:\Users\user\source\repos\SImpleCalculator\SImpleCalculator\SImpleCalculator\obj\Debug\netstandard2.0\SImpleCalculator.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SImpleCalculator\SImpleCalculator\SImpleCalculator\obj\Debug\netstandard2.0\SImpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SImpleCalculator\SImpleCalculator\SImpleCalculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\source\repos\SImpleCalculator\SImpleCalculator\SImpleCalculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\source\repos\SImpleCalculator\SImpleCalculator\SImpleCalculator\obj\Debug\netstandard2.0\SImpleCalculator.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SImpleCalculator\SImpleCalculator\SImpleCalculator\obj\Debug\netstandard2.0\SImpleCalculator.AssemblyInfo.cs
+C:\Users\user\source\repos\SImpleCalculator\SImpleCalculator\SImpleCalculator\obj\Debug\netstandard2.0\SImpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SImpleCalculator\SImpleCalculator\SImpleCalculator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\source\repos\SImpleCalculator\SImpleCalculator\SImpleCalculator\obj\Debug\netstandard2.0\SImpleCalculator.dll
+C:\Users\user\source\repos\SImpleCalculator\SImpleCalculator\SImpleCalculator\obj\Debug\netstandard2.0\ref\SImpleCalculator.dll
+C:\Users\user\source\repos\SImpleCalculator\SImpleCalculator\SImpleCalculator\obj\Debug\netstandard2.0\SImpleCalculator.pdb
