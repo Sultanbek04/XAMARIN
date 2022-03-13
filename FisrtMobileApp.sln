@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FisrtMobileApp", "FisrtMobileApp\FisrtMobileApp.fsproj", "{FBA8D976-D37D-4E85-BB68-EA291267960B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBA8D976-D37D-4E85-BB68-EA291267960B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA8D976-D37D-4E85-BB68-EA291267960B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA8D976-D37D-4E85-BB68-EA291267960B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FBA8D976-D37D-4E85-BB68-EA291267960B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA8D976-D37D-4E85-BB68-EA291267960B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBA8D976-D37D-4E85-BB68-EA291267960B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {092D7F9F-359F-4F0D-9FDC-F2C23CAFFC5D}
+	EndGlobalSection
+EndGlobal
