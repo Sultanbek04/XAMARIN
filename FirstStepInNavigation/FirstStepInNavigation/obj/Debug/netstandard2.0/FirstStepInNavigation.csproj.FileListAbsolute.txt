@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\FirstStepInNavigation\FirstStepInNavigation\FirstStepInNavigation\bin\Debug\netstandard2.0\FirstStepInNavigation.deps.json
+C:\Users\user\source\repos\FirstStepInNavigation\FirstStepInNavigation\FirstStepInNavigation\bin\Debug\netstandard2.0\FirstStepInNavigation.dll
+C:\Users\user\source\repos\FirstStepInNavigation\FirstStepInNavigation\FirstStepInNavigation\bin\Debug\netstandard2.0\ref\FirstStepInNavigation.dll
+C:\Users\user\source\repos\FirstStepInNavigation\FirstStepInNavigation\FirstStepInNavigation\bin\Debug\netstandard2.0\FirstStepInNavigation.pdb
+C:\Users\user\source\repos\FirstStepInNavigation\FirstStepInNavigation\FirstStepInNavigation\obj\Debug\netstandard2.0\FirstStepInNavigation.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FirstStepInNavigation\FirstStepInNavigation\FirstStepInNavigation\obj\Debug\netstandard2.0\FirstStepInNavigation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FirstStepInNavigation\FirstStepInNavigation\FirstStepInNavigation\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\source\repos\FirstStepInNavigation\FirstStepInNavigation\FirstStepInNavigation\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\source\repos\FirstStepInNavigation\FirstStepInNavigation\FirstStepInNavigation\obj\Debug\netstandard2.0\FirstStepInNavigation.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FirstStepInNavigation\FirstStepInNavigation\FirstStepInNavigation\obj\Debug\netstandard2.0\FirstStepInNavigation.AssemblyInfo.cs
+C:\Users\user\source\repos\FirstStepInNavigation\FirstStepInNavigation\FirstStepInNavigation\obj\Debug\netstandard2.0\FirstStepInNavigation.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FirstStepInNavigation\FirstStepInNavigation\FirstStepInNavigation\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\source\repos\FirstStepInNavigation\FirstStepInNavigation\FirstStepInNavigation\obj\Debug\netstandard2.0\FirstStepInNavigation.dll
+C:\Users\user\source\repos\FirstStepInNavigation\FirstStepInNavigation\FirstStepInNavigation\obj\Debug\netstandard2.0\ref\FirstStepInNavigation.dll
+C:\Users\user\source\repos\FirstStepInNavigation\FirstStepInNavigation\FirstStepInNavigation\obj\Debug\netstandard2.0\FirstStepInNavigation.pdb

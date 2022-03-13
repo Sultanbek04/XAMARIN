@@ -1,0 +1,1 @@
+C:\Users\user\source\repos\FirstStepInNavigation\FirstStepInNavigation\FirstStepInNavigation.UWP\FirstStepInNavigation.UWP.csproj;x86
