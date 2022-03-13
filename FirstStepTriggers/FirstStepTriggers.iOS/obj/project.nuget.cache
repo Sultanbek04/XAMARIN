@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Eid6VhykMtDOVhPl4++xcdKg+mhd/EL32QXgXONx3u8gF9j2A5kt3aiX6hkINdtV0ygUDMeN3c31OubmtB9SQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\FirstStepTriggers\\FirstStepTriggers\\FirstStepTriggers.iOS\\FirstStepTriggers.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

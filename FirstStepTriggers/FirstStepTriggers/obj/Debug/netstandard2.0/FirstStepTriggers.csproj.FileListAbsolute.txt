@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\FirstStepTriggers\FirstStepTriggers\FirstStepTriggers\bin\Debug\netstandard2.0\FirstStepTriggers.deps.json
+C:\Users\user\source\repos\FirstStepTriggers\FirstStepTriggers\FirstStepTriggers\bin\Debug\netstandard2.0\FirstStepTriggers.dll
+C:\Users\user\source\repos\FirstStepTriggers\FirstStepTriggers\FirstStepTriggers\bin\Debug\netstandard2.0\ref\FirstStepTriggers.dll
+C:\Users\user\source\repos\FirstStepTriggers\FirstStepTriggers\FirstStepTriggers\bin\Debug\netstandard2.0\FirstStepTriggers.pdb
+C:\Users\user\source\repos\FirstStepTriggers\FirstStepTriggers\FirstStepTriggers\obj\Debug\netstandard2.0\FirstStepTriggers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FirstStepTriggers\FirstStepTriggers\FirstStepTriggers\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\source\repos\FirstStepTriggers\FirstStepTriggers\FirstStepTriggers\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\source\repos\FirstStepTriggers\FirstStepTriggers\FirstStepTriggers\obj\Debug\netstandard2.0\FirstStepTriggers.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FirstStepTriggers\FirstStepTriggers\FirstStepTriggers\obj\Debug\netstandard2.0\FirstStepTriggers.AssemblyInfo.cs
+C:\Users\user\source\repos\FirstStepTriggers\FirstStepTriggers\FirstStepTriggers\obj\Debug\netstandard2.0\FirstStepTriggers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FirstStepTriggers\FirstStepTriggers\FirstStepTriggers\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\source\repos\FirstStepTriggers\FirstStepTriggers\FirstStepTriggers\obj\Debug\netstandard2.0\FirstStepTriggers.dll
+C:\Users\user\source\repos\FirstStepTriggers\FirstStepTriggers\FirstStepTriggers\obj\Debug\netstandard2.0\ref\FirstStepTriggers.dll
+C:\Users\user\source\repos\FirstStepTriggers\FirstStepTriggers\FirstStepTriggers\obj\Debug\netstandard2.0\FirstStepTriggers.pdb
